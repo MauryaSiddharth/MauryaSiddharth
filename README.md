@@ -95,7 +95,7 @@ AI Engineering (LLMs, RAG, agentic workflows) — building on my full-stack + De
 <h3 align="left">📫 Reach me:</h3>
 <p align="left">
 📧 siddharthmaurya7451@gmail.com &nbsp;|&nbsp;
-🔗 <a href="https://linkedin.com/in/siddharth-maurya-416445290">linkedin.com/in/siddharth-maurya-416445290</a>
+🔗<a href="https://linkedin.com/in/siddharth-maurya-416445290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharth-maurya-416445290" height="30" width="40" /></a>
 </p>
 <p align="center"> <b>💼 Open to full-time SDE / Full-Stack opportunities</b> </p>
 <p align="center"> <i>Building. Learning 🚀</i> </p>
