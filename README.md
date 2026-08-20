@@ -1,101 +1,188 @@
-<h1 align="center">Hi there, I'm Siddharth Maurya 👋</h1>
-<h3 align="center">Full-Stack Developer | AI Engineering</h3>
+<h1 align="center">Hi 👋, I'm Siddharth Maurya</h1>
+
+<h3 align="center">
+  Full-Stack Developer • AI Engineering • Cloud & DevOps
+</h3>
 
 <p align="center">
-I build full-stack web applications with the MERN stack and Next.js, and I'm expanding into
-cloud/DevOps (Docker, CI/CD) and AI Engineering. Currently looking for full-time SDE / full-stack roles.
+  I build scalable full-stack web applications with the MERN stack and Next.js,
+  and I'm expanding my expertise in AI engineering, cloud infrastructure, and DevOps.
 </p>
 
-<h3 align="left">🔗 Connect with me:</h3>
+<p align="center">
+  <b>🚀 Currently looking for full-time SDE / Full-Stack Developer opportunities</b>
+</p>
+
+---
+
+<h2>🔗 Connect With Me</h2>
+
 <p align="left">
-<a href="https://linkedin.com/in/siddharth-maurya-416445290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharth-maurya-416445290" height="30" width="40" /></a>
-<a href="https://twitter.com/siddharth7451" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siddharth7451" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/maurya-siddharth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maurya-siddharth" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/siddharth-maurya-416445290" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn"
+      width="40"
+      height="40"
+    />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/siddharth7451" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="Twitter"
+      width="40"
+      height="40"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.leetcode.com/maurya-siddharth" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+      alt="LeetCode"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+---
+
+<h2>🛠️ Languages & Technologies</h2>
+
+<h3>Languages</h3>
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
 </p>
 
-<h3 align="left">📌 Featured Projects</h3>
+<h3>Frontend</h3>
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+</p>
+
+<h3>Backend & Databases</h3>
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+</p>
+
+<h3>DevOps & Tools</h3>
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+</p>
+
+---
+
+<h2>📌 Featured Projects</h2>
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
-### 🏨 [Bookmystay](https://github.com/MauryaSiddharth/Bookmystay)
-Full-stack hotel booking application with payments and image uploads.
+### 🏨 Bookmystay
 
-**Tech:** React · Node.js · Express · MongoDB · TypeScript · Stripe · Cloudinary
+A full-stack hotel booking platform designed to handle hotel discovery, bookings, payments, and image management.
 
-[🔗 Live Demo](https://bookmystay-5da5.onrender.com/) &nbsp;|&nbsp; [📂 Repo](https://github.com/MauryaSiddharth/Bookmystay)
+**Tech Stack**
 
-</td>
-<td width="50%" valign="top">
+`React` · `Node.js` · `Express` · `MongoDB` · `TypeScript` · `Stripe` · `Cloudinary`
 
-### 💬 [Whisperbox](https://github.com/MauryaSiddharth/Whisperbox)
-Anonymous feedback and social messaging platform with AI-assisted message suggestions.
+**Links**
 
-**Tech:** Next.js · TypeScript · MongoDB · Tailwind CSS · Gemini API
+<a href="https://bookmystay-5da5.onrender.com/" target="_blank">🔗 Live Demo</a>
+&nbsp;•&nbsp;
+<a href="https://github.com/MauryaSiddharth/Bookmystay" target="_blank">📂 Source Code</a>
 
-[🔗 Live Demo](https://whisperbox-beryl.vercel.app/) &nbsp;|&nbsp; [📂 Repo](https://github.com/MauryaSiddharth/Whisperbox)
+  </td>
 
-</td>
-</tr>
+  <td width="50%" valign="top">
+
+### 💬 Whisperbox
+
+An anonymous feedback and messaging platform with AI-assisted message suggestions, built with a modern Next.js stack.
+
+**Tech Stack**
+
+`Next.js` · `TypeScript` · `MongoDB` · `Tailwind CSS` · `Gemini API`
+
+**Links**
+
+<a href="https://whisperbox-beryl.vercel.app/" target="_blank">🔗 Live Demo</a>
+&nbsp;•&nbsp;
+<a href="https://github.com/MauryaSiddharth/Whisperbox" target="_blank">📂 Source Code</a>
+
+  </td>
+  </tr>
 </table>
 
-<h3 align="left">🌱 Currently Learning</h3>
-<p align="left">
-AI Engineering (LLMs, RAG, agentic workflows) — building on my full-stack + DevOps foundation.
+---
+
+<h2>🌱 Currently Learning</h2>
+
+<p>
+  <b>AI Engineering</b> — LLM applications, RAG pipelines, agentic workflows,
+  and integrating AI capabilities into production full-stack applications.
 </p>
 
-<h3 align="left">📊 GitHub Stats</h3>
+<p>
+  <b>Cloud & DevOps</b> — Docker, CI/CD, deployment workflows,
+  and cloud infrastructure.
+</p>
+
+---
+
+<h2>📊 GitHub Statistics</h2>
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MauryaSiddharth&show_icons=true&theme=dracula&hide_border=true" alt="mauryasiddharth stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauryaSiddharth&layout=compact&theme=dracula&hide_border=true" alt="mauryasiddharth top langs" width="49%" />
+  <img
+    src="./profile/stats.svg"
+    alt="Siddharth Maurya GitHub statistics"
+    width="49%"
+    height="200"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    alt="Siddharth Maurya most used languages"
+    width="49%"
+    height="200"
+  />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=MauryaSiddharth&theme=dracula&hide_border=true" alt="mauryasiddharth streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=MauryaSiddharth&theme=dracula&hide_border=true"
+    alt="Siddharth Maurya GitHub streak"
+  />
 </p>
 
-<h3 align="left">📫 Reach me:</h3>
-<p align="left">
-📧 siddharthmaurya7451@gmail.com &nbsp;|&nbsp;
+---
 
+<h2>📫 Get In Touch</h2>
+
+<p>
+  📧 <a href="mailto:siddharthmaurya7451@gmail.com">siddharthmaurya7451@gmail.com</a>
 </p>
-<p align="center"> <b>💼 Open to full-time SDE / Full-Stack opportunities</b> </p>
-<p align="center"> <i>Building. Learning 🚀</i> </p>
+
+<p align="center">
+  <b>💼 Open to full-time SDE / Full-Stack Developer opportunities</b>
+</p>
+
+<p align="center">
+  <i>Building. Learning. 🚀</i>
+</p>
