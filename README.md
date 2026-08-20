@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Siddharth Maurya 👋</h1>
-<h3 align="center">Full-Stack Developer | MERN & Next.js | Final-Year B.Tech Student</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
 I build full-stack web applications with the MERN stack and Next.js, and I'm expanding into
-cloud/DevOps (Docker, CI/CD). Currently looking for full-time SDE / full-stack roles.
+cloud/DevOps (Docker, CI/CD) and AI Engineering. Currently looking for full-time SDE / full-stack roles.
 </p>
 
 <h3 align="left">🔗 Connect with me:</h3>
@@ -34,24 +34,30 @@ cloud/DevOps (Docker, CI/CD). Currently looking for full-time SDE / full-stack r
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">📌 Pinned / Featured Projects</h3>
-<p align="left"><i>Add 2–3 of your best projects here, e.g.:</i></p>
+<h3 align="left">📌 Featured Projects</h3>
 
-**[Project Name](your-repo-link)** — One-line description of what it does and the problem it solves.
-Tech: React, Node.js, Express, MongoDB · [Live Demo](#) · [Repo](#)
+**[Bookmystay](https://github.com/MauryaSiddharth/Bookmystay)** — A full-stack hotel booking application with payments and image uploads.
+Tech: React · Node.js · Express · MongoDB · TypeScript · Stripe · Cloudinary
+🔗 [Live Demo](https://bookmystay-5da5.onrender.com/) · [Repo](https://github.com/MauryaSiddharth/Bookmystay)
 
-**[Project Name](your-repo-link)** — One-line description.
-Tech: Next.js, TypeScript, PostgreSQL · [Live Demo](#) · [Repo](#)
+**[Whisperbox](https://github.com/MauryaSiddharth/Whisperbox)** — Anonymous feedback and social messaging platform with AI-assisted message suggestions.
+Tech: Next.js · TypeScript · MongoDB · Tailwind CSS · Gemini API
+🔗 [Live Demo](https://whisperbox-beryl.vercel.app/) · [Repo](https://github.com/MauryaSiddharth/Whisperbox)
+
+<h3 align="left">🌱 Currently Learning</h3>
+<p align="left">
+AI Engineering (LLMs, RAG, agentic workflows) — building on my full-stack + DevOps foundation.
+</p>
 
 <h3 align="left">📊 GitHub Stats</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mauryasiddharth&show_icons=true&theme=default&count_private=true" alt="mauryasiddharth stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mauryasiddharth&show_icons=true&layout=compact&theme=default" alt="mauryasiddharth top langs" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=MauryaSiddharth&show_icons=true&theme=default&count_private=true" alt="mauryasiddharth stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MauryaSiddharth&show_icons=true&layout=compact&theme=default" alt="mauryasiddharth top langs" width="49%" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mauryasiddharth&theme=default" alt="mauryasiddharth streak" />
+<img src="https://streak-stats.demolab.com/?user=MauryaSiddharth&theme=default" alt="mauryasiddharth streak" />
 </p>
 
 <h3 align="left">📫 Reach me:</h3>
-<p align="left">your-email@example.com</p>
+<p align="left">siddharthmaurya7451@gmail.com</p>
