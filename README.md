@@ -84,8 +84,8 @@ AI Engineering (LLMs, RAG, agentic workflows) — building on my full-stack + De
 
 <h3 align="left">📊 GitHub Stats</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MauryaSiddharth&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=1800" alt="mauryasiddharth stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauryaSiddharth&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800" alt="mauryasiddharth top langs" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=MauryaSiddharth&show_icons=true&theme=dracula&hide_border=true" alt="mauryasiddharth stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauryaSiddharth&layout=compact&theme=dracula&hide_border=true" alt="mauryasiddharth top langs" width="49%" />
 </p>
 
 <p align="center">
