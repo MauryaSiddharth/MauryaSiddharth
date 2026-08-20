@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Siddharth Maurya 👋</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h3 align="center">Full-Stack Developer | AI Engineering</h3>
 
 <p align="center">
 I build full-stack web applications with the MERN stack and Next.js, and I'm expanding into
@@ -51,13 +51,15 @@ AI Engineering (LLMs, RAG, agentic workflows) — building on my full-stack + De
 
 <h3 align="left">📊 GitHub Stats</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MauryaSiddharth&show_icons=true&theme=default&count_private=true" alt="mauryasiddharth stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MauryaSiddharth&show_icons=true&layout=compact&theme=default" alt="mauryasiddharth top langs" width="49%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MauryaSiddharth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="mauryasiddharth stats" width="49%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MauryaSiddharth&layout=compact&theme=tokyonight&hide_border=true" alt="mauryasiddharth top langs" width="49%" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=MauryaSiddharth&theme=default" alt="mauryasiddharth streak" />
+<img src="https://streak-stats.demolab.com/?user=MauryaSiddharth&theme=tokyonight&hide_border=true" alt="mauryasiddharth streak" />
 </p>
 
 <h3 align="left">📫 Reach me:</h3>
 <p align="left">siddharthmaurya7451@gmail.com</p>
+<p align="center"> <b>💼 Open to full-time SDE / Full-Stack opportunities</b> </p>
+<p align="center"> <i>Building. Learning 🚀</i> </p>
